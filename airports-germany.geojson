@@ -1,0 +1,1867 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78609,
+          48.35378
+        ]
+      },
+      "properties": {
+        "name": "Munich International Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 453,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55603,
+          50.0406
+        ]
+      },
+      "properties": {
+        "name": "Frankfurt Airport",
+        "country": "Germany",
+        "region": "Hesse",
+        "elevation_m": 110,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6290293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12292,
+          50.87894
+        ]
+      },
+      "properties": {
+        "name": "Cologne Bonn Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 92,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98823,
+          53.63039
+        ]
+      },
+      "properties": {
+        "name": "Hamburg Airport",
+        "country": "Germany",
+        "region": "Hamburg",
+        "elevation_m": 16,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93176,
+          48.42516
+        ]
+      },
+      "properties": {
+        "name": "Augsburg Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 461,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76715,
+          51.28066
+        ]
+      },
+      "properties": {
+        "name": "Düsseldorf International Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 44,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95811,
+          50.97981
+        ]
+      },
+      "properties": {
+        "name": "Erfurt–Weimar Airport",
+        "country": "Germany",
+        "region": "Thuringia",
+        "elevation_m": 315,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26389,
+          49.94867
+        ]
+      },
+      "properties": {
+        "name": "Frankfurt-Hahn",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 502,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.306,
+          53.60217
+        ]
+      },
+      "properties": {
+        "name": "Neubrandenburg Airport",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": 69,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.23622,
+          47.98751
+        ]
+      },
+      "properties": {
+        "name": "Memmingen Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 629,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6941441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50168,
+          52.36213
+        ]
+      },
+      "properties": {
+        "name": "Berlin Brandenburg Airport",
+        "country": "Germany",
+        "region": "Brandenburg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8181624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48077,
+          50.99177
+        ]
+      },
+      "properties": {
+        "name": "Eisenach-Kindel Airport",
+        "country": "Germany",
+        "region": "Thuringia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18844,
+          50.82345
+        ]
+      },
+      "properties": {
+        "name": "Aachen-Merzbrück Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04068,
+          50.96075
+        ]
+      },
+      "properties": {
+        "name": "NATO Air Base Geilenkirchen",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52906,
+          50.32531
+        ]
+      },
+      "properties": {
+        "name": "Koblenz-Winningen Airport",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78667,
+          53.0475
+        ]
+      },
+      "properties": {
+        "name": "Bremen Airport",
+        "country": "Germany",
+        "region": "City state Bremen",
+        "elevation_m": 4,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.83703,
+          53.53589
+        ]
+      },
+      "properties": {
+        "name": "Hamburg Finkenwerder Airport",
+        "country": "Germany",
+        "region": "Hamburg",
+        "elevation_m": 7,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66667,
+          53.76667
+        ]
+      },
+      "properties": {
+        "name": "Sea-Airport Cuxhaven/Nordholz",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": 23,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5757,
+          53.99157
+        ]
+      },
+      "properties": {
+        "name": "Itzehoe-Hungriger Wolf",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26614,
+          48.2056
+        ]
+      },
+      "properties": {
+        "name": "Fürstenfeldbruck AB",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54024,
+          48.72325
+        ]
+      },
+      "properties": {
+        "name": "Ingolstadt Manching Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 366,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37833,
+          54.77194
+        ]
+      },
+      "properties": {
+        "name": "Flensburg-Schäferhaus Airport",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 40,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.91466,
+          54.18587
+        ]
+      },
+      "properties": {
+        "name": "Heligoland Airport",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51633,
+          54.45933
+        ]
+      },
+      "properties": {
+        "name": "Schleswig Air Base",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 21,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55611,
+          52.31917
+        ]
+      },
+      "properties": {
+        "name": "Braunschweig-Wolfsburg Airport",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": 89,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02408,
+          52.59142
+        ]
+      },
+      "properties": {
+        "name": "Celle Air Base",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26667,
+          53.91667
+        ]
+      },
+      "properties": {
+        "name": "Rostock-Laage Airport",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          47.66667
+        ]
+      },
+      "properties": {
+        "name": "Friedrichshafen Airport",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82561,
+          48.35642
+        ]
+      },
+      "properties": {
+        "name": "Black Forest Airport",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56407,
+          49.9447
+        ]
+      },
+      "properties": {
+        "name": "Bitburg Airport",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 373,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.10951,
+          49.21455
+        ]
+      },
+      "properties": {
+        "name": "Saarbrücken Airport",
+        "country": "Germany",
+        "region": "Saarland",
+        "elevation_m": 322,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76716,
+          51.13277
+        ]
+      },
+      "properties": {
+        "name": "Dresden Airport",
+        "country": "Germany",
+        "region": "Saxony",
+        "elevation_m": 230,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71922,
+          53.80537
+        ]
+      },
+      "properties": {
+        "name": "Lübeck Airport",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 16,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78133,
+          53.42966
+        ]
+      },
+      "properties": {
+        "name": "Parchim International Airport",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55062,
+          51.96521
+        ]
+      },
+      "properties": {
+        "name": "Bielefeld Windelsbleiche Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71573,
+          54.3381
+        ]
+      },
+      "properties": {
+        "name": "Stralsund Barth Airport",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96833,
+          49.64778
+        ]
+      },
+      "properties": {
+        "name": "Giebelstadt",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3274978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64169,
+          49.96166
+        ]
+      },
+      "properties": {
+        "name": "Frankfurt Egelsbach Airport",
+        "country": "Germany",
+        "region": "Hesse",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3272939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49987,
+          51.23145
+        ]
+      },
+      "properties": {
+        "name": "Düsseldorf Mönchengladbach Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19521,
+          48.69034
+        ]
+      },
+      "properties": {
+        "name": "Stuttgart Airport",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": 388,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69269,
+          52.45957
+        ]
+      },
+      "properties": {
+        "name": "Hannover  Airport",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": 55,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51789,
+          48.9009
+        ]
+      },
+      "properties": {
+        "name": "Straubing Wallmühle Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63333,
+          49.98333
+        ]
+      },
+      "properties": {
+        "name": "Bayreuth",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.28333,
+          51.1
+        ]
+      },
+      "properties": {
+        "name": "Fritzlar",
+        "country": "Germany",
+        "region": "Hesse",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.30596,
+          51.9231
+        ]
+      },
+      "properties": {
+        "name": "RAF Gütersloh",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61139,
+          51.6081
+        ]
+      },
+      "properties": {
+        "name": "Paderborn Lippstadt Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 213,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41947,
+          51.85606
+        ]
+      },
+      "properties": {
+        "name": "Magdeburg–Cochstedt Airport",
+        "country": "Germany",
+        "region": "Saxony-Anhalt",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3207101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50636,
+          50.98182
+        ]
+      },
+      "properties": {
+        "name": "Leipzig–Altenburg Airport",
+        "country": "Germany",
+        "region": "Thuringia",
+        "elevation_m": 195,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15235,
+          53.87871
+        ]
+      },
+      "properties": {
+        "name": "Heringsdorf Airport",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": 28,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68483,
+          52.13464
+        ]
+      },
+      "properties": {
+        "name": "Münster Osnabrück International Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 48,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07576,
+          49.49575
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 318,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51556,
+          49.4725
+        ]
+      },
+      "properties": {
+        "name": "Mannheim City Airport",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": 100,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14517,
+          54.3795
+        ]
+      },
+      "properties": {
+        "name": "Kiel / Holtenau Civilian",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 30,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14222,
+          51.6025
+        ]
+      },
+      "properties": {
+        "name": "Weeze Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 32,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61224,
+          51.51831
+        ]
+      },
+      "properties": {
+        "name": "Dortmund Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 129,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85492,
+          50.28884
+        ]
+      },
+      "properties": {
+        "name": "Hof–Plauen Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 597,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0805,
+          48.77935
+        ]
+      },
+      "properties": {
+        "name": "Baden Airpark",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": 124,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37763,
+          51.40839
+        ]
+      },
+      "properties": {
+        "name": "Kassel Calden Airport",
+        "country": "Germany",
+        "region": "Hesse",
+        "elevation_m": 276,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.34047,
+          54.91325
+        ]
+      },
+      "properties": {
+        "name": "Westerland / Sylt",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 15,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6925,
+          49.97267
+        ]
+      },
+      "properties": {
+        "name": "Spangdahlem AB",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 364,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60028,
+          49.43691
+        ]
+      },
+      "properties": {
+        "name": "Ramstein",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 236,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.387,
+          52.29117
+        ]
+      },
+      "properties": {
+        "name": "Rheine-Bentlage Air Base",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 39,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20056,
+          49.74306
+        ]
+      },
+      "properties": {
+        "name": "Kitzingen Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 210,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3254,
+          50.04982
+        ]
+      },
+      "properties": {
+        "name": "Wiesbaden Airport",
+        "country": "Germany",
+        "region": "Hesse",
+        "elevation_m": 140,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.04056,
+          52.90833
+        ]
+      },
+      "properties": {
+        "name": "Varrelbusch Airport",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 7730470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22195,
+          51.42126
+        ]
+      },
+      "properties": {
+        "name": "Leipzig-Halle Airport",
+        "country": "Germany",
+        "region": "Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6615410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94001,
+          51.40325
+        ]
+      },
+      "properties": {
+        "name": "Essen/Mülheim Airport",
+        "country": "Germany",
+        "region": "North Rhine-Westphalia",
+        "elevation_m": 129,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6457352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.74603,
+          53.30483
+        ]
+      },
+      "properties": {
+        "name": "Rechlin-Lärz Airfield",
+        "country": "Germany",
+        "region": "Mecklenburg-Vorpommern",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8520835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9,
+          48.06667
+        ]
+      },
+      "properties": {
+        "name": "Landsberg-Lech Air Base",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18333,
+          52.91667
+        ]
+      },
+      "properties": {
+        "name": "Faßberg Air Base",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91719,
+          52.58016
+        ]
+      },
+      "properties": {
+        "name": "Strausberg Airport",
+        "country": "Germany",
+        "region": "Brandenburg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16667,
+          51.76667
+        ]
+      },
+      "properties": {
+        "name": "Holzdorf Air Base",
+        "country": "Germany",
+        "region": "Brandenburg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.91667,
+          48.21667
+        ]
+      },
+      "properties": {
+        "name": "Laupheim Air Base",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62647,
+          52.07366
+        ]
+      },
+      "properties": {
+        "name": "Magdeburg, Sachsen-Anhalt",
+        "country": "Germany",
+        "region": "Saxony-Anhalt",
+        "elevation_m": 81,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28307,
+          48.08136
+        ]
+      },
+      "properties": {
+        "name": "Oberpfaffenhofen",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 593,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52222,
+          47.97333
+        ]
+      },
+      "properties": {
+        "name": "Donaueschingen / Villingen",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": 680,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.08217,
+          52.2785
+        ]
+      },
+      "properties": {
+        "name": "Bückeburg Air Base",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": 70,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.31533,
+          50.366
+        ]
+      },
+      "properties": {
+        "name": "Mendig Air Base",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 181,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.06333,
+          50.17383
+        ]
+      },
+      "properties": {
+        "name": "Buechel",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "elevation_m": 477,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62159,
+          51.12911
+        ]
+      },
+      "properties": {
+        "name": "Bad Langensalza Airport",
+        "country": "Germany",
+        "region": "Thuringia",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8533072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93333,
+          48.31667
+        ]
+      },
+      "properties": {
+        "name": "Erding Airport",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19354,
+          51.83167
+        ]
+      },
+      "properties": {
+        "name": "Dessau",
+        "country": "Germany",
+        "region": "Saxony-Anhalt",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3209058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66733,
+          53.54783
+        ]
+      },
+      "properties": {
+        "name": "Wittmundhaven",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": 7,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          48.9
+        ]
+      },
+      "properties": {
+        "name": "Pforzheim",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 8299240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21667,
+          48.7
+        ]
+      },
+      "properties": {
+        "name": "Neuburg",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88333,
+          53.53333
+        ]
+      },
+      "properties": {
+        "name": "Jever",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53817,
+          54.31217
+        ]
+      },
+      "properties": {
+        "name": "Hohn",
+        "country": "Germany",
+        "region": "Schleswig-Holstein",
+        "elevation_m": 12,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3208577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95889,
+          49.39139
+        ]
+      },
+      "properties": {
+        "name": "Niederstetten",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3274960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.33333,
+          52.58333
+        ]
+      },
+      "properties": {
+        "name": "Diepholz",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.43333,
+          52.45
+        ]
+      },
+      "properties": {
+        "name": "Wunstorf",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 3206645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94017,
+          49.69869
+        ]
+      },
+      "properties": {
+        "name": "Grafenwoehr",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 415,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.83648,
+          49.21676
+        ]
+      },
+      "properties": {
+        "name": "Hohenfels",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": 443,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6296848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46667,
+          49.56667
+        ]
+      },
+      "properties": {
+        "name": "Coleman Mannheim",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": 96,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6301536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.59311,
+          52.1934
+        ]
+      },
+      "properties": {
+        "name": "Verkehrslandeplatz Eisenhüttenstadt",
+        "country": "Germany",
+        "region": "Brandenburg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6951708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89933,
+          49.81835
+        ]
+      },
+      "properties": {
+        "name": "Flugplatz Würzburg Schenkenturm",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11142839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.28971,
+          48.45802
+        ]
+      },
+      "properties": {
+        "name": "Segelfluggelände Übersberg",
+        "country": "Germany",
+        "region": "Baden-Wurttemberg",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11048872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44367,
+          53.27183
+        ]
+      },
+      "properties": {
+        "name": "Airfield Leer Papenburg",
+        "country": "Germany",
+        "region": "Lower Saxony",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 11153073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2735,
+          48.3823
+        ]
+      },
+      "properties": {
+        "name": "Sonderlandeplatz Altomünster",
+        "country": "Germany",
+        "region": "Bavaria",
+        "elevation_m": null,
+        "population": 0,
+        "feature_type": "airport",
+        "geoname_id": 6543883
+      }
+    }
+  ]
+}
